@@ -10,3 +10,4 @@ It gives you a score at the end after scrolling through the questions.
 Lastly we used an activity feature, which we can see our activities that we did on a log. We do this by adding the activities to a list, as soon as they happen. For example, when a task is created, we add the activity that was detected to a list, but we dont show it yet. Then when a user ask for the activity log, we display the latest 5 records for the user to seee. We use NLP throughout the program and on various occasions.
 
 Github: https://github.com/hartmanRuan/PROG_POE_PART3_ST10453370.git
+Video is provided on arc submission as it is to big for the Github Repository.
