@@ -1,0 +1,41 @@
+﻿<Window x:Class="ChatbotGame.ChatbotInterface"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChatbotGame"
+        mc:Ignorable="d"
+        Title="ChatbotInterface" Height="450" Width="800">
+    <Grid Background="#FFE3E3E3">
+        <Rectangle HorizontalAlignment="Center" Height="100" Stroke="Black" VerticalAlignment="Top" Width="800" Fill="#FFBB1414"/>
+        <Rectangle Name="rctSideBar" HorizontalAlignment="Left" Height="334" Margin="0,100,0,0" Stroke="#FFC50F0F" VerticalAlignment="Top" Width="139" Fill="White"/>
+        <Label Name="lblHeading" Content="Chatbot" HorizontalAlignment="Center" Margin="0,13,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="48" Foreground="White"/>
+        <Image HorizontalAlignment="Left" Height="77" Margin="48,11,0,0" VerticalAlignment="Top" Width="91" Source="/Screenshot 2025-06-05 131251.png" Stretch="Fill">
+            <Image.OpacityMask>
+                <ImageBrush ImageSource="/Screenshot 2025-06-05 131251.png" Stretch="Fill"/>
+            </Image.OpacityMask>
+        </Image>
+        <Label Name="lblLoginHeading" Content="Login:" HorizontalAlignment="Center" Margin="0,145,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="18"/>
+        <Button Name="btnEnterLogin" Content="Enter" HorizontalAlignment="Center" Margin="0,339,0,0" VerticalAlignment="Top" Height="40" Width="104" FontWeight="Bold" FontSize="16" Click="btnEnterLogin_Click"/>
+        <Label Name="lblNameLogin" Content="Name: " HorizontalAlignment="Left" Margin="224,206,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"/>
+        <Label Name="lblSurnameLogin" Content="Surname:" HorizontalAlignment="Left" Margin="224,274,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"/>
+        <TextBox Name="txbName" HorizontalAlignment="Center" Margin="0,217,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" FontWeight="Bold" FontSize="16"/>
+        <TextBox Name="txbSurname" HorizontalAlignment="Center" Margin="0,278,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" FontWeight="Bold" FontSize="16"/>
+        <ListBox x:Name="lbxChatbotResponses" Margin="162,114,35,100"  BorderThickness="0" FontWeight="Bold"  Visibility="Collapsed"/>
+        <Button Name="btnSendQuestion" Visibility="Collapsed" Content="Send" HorizontalAlignment="Left" Margin="161,339,0,0" VerticalAlignment="Top" Height="66" Width="76" FontWeight="Bold" FontSize="16" Click="btnSendQuestion_Click"/>
+        <Label Name="lblQuestionAsk" Visibility="Collapsed" Content="Ask me a question:" HorizontalAlignment="Center" Margin="0,321,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"/>
+        <TextBox Name="txbQuestionReciever" Visibility="Collapsed" HorizontalAlignment="Left" Margin="280,360,0,0" TextWrapping="Wrap" Text="Enter here" VerticalAlignment="Top" Width="434" FontWeight="Bold" FontSize="16" Height="45" BorderBrush="#FFC60E0E"/>
+        <Label Name="lblWelcomeMessage" Visibility="Collapsed" Content="Welcome to the CyberSecurity Awareness Chatbot" HorizontalAlignment="Left" Margin="187,236,0,0" VerticalAlignment="Top" Background="#FFCF0C0C" FontWeight="Bold" FontSize="24" Foreground="White"/>
+        <Button Name="btnWelcomeSidebar" Content="Home Screen" HorizontalAlignment="Left" Margin="20,183,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16" Height="39" Click="btnWelcomeSidebar_Click"/>
+        <Button Name="btnChatbotSidebar" Content="Chatbot" HorizontalAlignment="Left" Margin="18,252,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16" Height="38" Width="104" Click="btnChatbotSidebar_Click"/>
+        <Label Name="lblNavigationHeadingSidebar" Content="Navigation:" HorizontalAlignment="Left" Margin="23,123,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"/>
+        <Button x:Name="btnQuizNavigation_Copy" Content="" HorizontalAlignment="Left" Margin="19,304,0,0" VerticalAlignment="Top" Height="100" Width="102" BorderBrush="#FFB41111" Click="btnQuizNavigation_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="/test.png"/>
+            </Button.Background>
+        </Button>
+        <Label Name="lblSecretMemory" Visibility="Collapsed" Content="" HorizontalAlignment="Left" Margin="644,278,0,0" VerticalAlignment="Top"/>
+
+
+    </Grid>
+</Window>

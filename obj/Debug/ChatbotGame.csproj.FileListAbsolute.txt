@@ -1,0 +1,17 @@
+C:\Users\lab_services_student\Desktop\PROG6121\ChatbotGame\bin\Debug\ChatbotGame.exe.config
+C:\Users\lab_services_student\Desktop\PROG6121\ChatbotGame\bin\Debug\ChatbotGame.exe
+C:\Users\lab_services_student\Desktop\PROG6121\ChatbotGame\bin\Debug\ChatbotGame.pdb
+C:\Users\lab_services_student\Desktop\PROG6121\ChatbotGame\obj\Debug\ChatbotGame.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Desktop\PROG6121\ChatbotGame\obj\Debug\MainWindow.g.cs
+C:\Users\lab_services_student\Desktop\PROG6121\ChatbotGame\obj\Debug\App.g.cs
+C:\Users\lab_services_student\Desktop\PROG6121\ChatbotGame\obj\Debug\ChatbotGame_MarkupCompile.cache
+C:\Users\lab_services_student\Desktop\PROG6121\ChatbotGame\obj\Debug\ChatbotGame_MarkupCompile.lref
+C:\Users\lab_services_student\Desktop\PROG6121\ChatbotGame\obj\Debug\MainWindow.baml
+C:\Users\lab_services_student\Desktop\PROG6121\ChatbotGame\obj\Debug\ChatbotGame.g.resources
+C:\Users\lab_services_student\Desktop\PROG6121\ChatbotGame\obj\Debug\ChatbotGame.Properties.Resources.resources
+C:\Users\lab_services_student\Desktop\PROG6121\ChatbotGame\obj\Debug\ChatbotGame.csproj.GenerateResource.cache
+C:\Users\lab_services_student\Desktop\PROG6121\ChatbotGame\obj\Debug\ChatbotGame.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\PROG6121\ChatbotGame\obj\Debug\ChatbotGame.exe
+C:\Users\lab_services_student\Desktop\PROG6121\ChatbotGame\obj\Debug\ChatbotGame.pdb
+C:\Users\lab_services_student\Desktop\PROG6121\ChatbotGame\obj\Debug\ChatbotInterface.g.cs
+C:\Users\lab_services_student\Desktop\PROG6121\ChatbotGame\obj\Debug\ChatbotInterface.baml

@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\PROG6121\\ChatbotGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02D857C8-E0CB-473A-B77F-06B23D5E5F75}|ChatbotGame.csproj|C:\\Users\\lab_services_student\\Desktop\\PROG6121\\ChatbotGame\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D857C8-E0CB-473A-B77F-06B23D5E5F75}|ChatbotGame.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D857C8-E0CB-473A-B77F-06B23D5E5F75}|ChatbotGame.csproj|C:\\Users\\lab_services_student\\Desktop\\PROG6121\\ChatbotGame\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{02D857C8-E0CB-473A-B77F-06B23D5E5F75}|ChatbotGame.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D857C8-E0CB-473A-B77F-06B23D5E5F75}|ChatbotGame.csproj|C:\\Users\\lab_services_student\\Desktop\\PROG6121\\ChatbotGame\\chatbotinterface.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{02D857C8-E0CB-473A-B77F-06B23D5E5F75}|ChatbotGame.csproj|solutionrelative:chatbotinterface.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D857C8-E0CB-473A-B77F-06B23D5E5F75}|ChatbotGame.csproj|c:\\users\\lab_services_student\\desktop\\prog6121\\chatbotgame\\responses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D857C8-E0CB-473A-B77F-06B23D5E5F75}|ChatbotGame.csproj|solutionrelative:responses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D857C8-E0CB-473A-B77F-06B23D5E5F75}|ChatbotGame.csproj|C:\\Users\\lab_services_student\\Desktop\\PROG6121\\ChatbotGame\\chatbotresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D857C8-E0CB-473A-B77F-06B23D5E5F75}|ChatbotGame.csproj|solutionrelative:chatbotresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D857C8-E0CB-473A-B77F-06B23D5E5F75}|ChatbotGame.csproj|C:\\Users\\lab_services_student\\Desktop\\PROG6121\\ChatbotGame\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D857C8-E0CB-473A-B77F-06B23D5E5F75}|ChatbotGame.csproj|solutionrelative:task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D857C8-E0CB-473A-B77F-06B23D5E5F75}|ChatbotGame.csproj|C:\\Users\\lab_services_student\\Desktop\\PROG6121\\ChatbotGame\\chatbotinterface.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D857C8-E0CB-473A-B77F-06B23D5E5F75}|ChatbotGame.csproj|solutionrelative:chatbotinterface.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6121\\ChatbotGame\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6121\\ChatbotGame\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-05T10:27:18.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6121\\ChatbotGame\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6121\\ChatbotGame\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAGIBAAAAAAAAAAAiwHQBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T10:27:16.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatbotInterface.xaml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6121\\ChatbotGame\\ChatbotInterface.xaml",
+              "RelativeDocumentMoniker": "ChatbotInterface.xaml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6121\\ChatbotGame\\ChatbotInterface.xaml",
+              "RelativeToolTip": "ChatbotInterface.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-25T18:38:16.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Responses.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6121\\ChatbotGame\\Responses.cs",
+              "RelativeDocumentMoniker": "Responses.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6121\\ChatbotGame\\Responses.cs",
+              "RelativeToolTip": "Responses.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAwGUAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T07:58:34.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatbotResponse.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6121\\ChatbotGame\\ChatbotResponse.cs",
+              "RelativeDocumentMoniker": "ChatbotResponse.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6121\\ChatbotGame\\ChatbotResponse.cs",
+              "RelativeToolTip": "ChatbotResponse.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T07:58:06.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6121\\ChatbotGame\\Task.cs",
+              "RelativeDocumentMoniker": "Task.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6121\\ChatbotGame\\Task.cs",
+              "RelativeToolTip": "Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:26:55.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatbotInterface.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6121\\ChatbotGame\\ChatbotInterface.xaml.cs",
+              "RelativeDocumentMoniker": "ChatbotInterface.xaml.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6121\\ChatbotGame\\ChatbotInterface.xaml.cs",
+              "RelativeToolTip": "ChatbotInterface.xaml.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAowDwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T12:56:52.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
